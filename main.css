@@ -1,3 +1,9 @@
 h1{
     background-color: yellow;
 }
+nav{
+    box-shadow: inset;
+    bottom: 20px;
+    background-color: blue ;
+    nav-right: initial;
+}
